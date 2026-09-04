@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Commission Tracker",
+    "version": "1.0",
+    "description": "Track art commissions: clients, deadlines, progress, and payments",
+    "action": {
+        "default_popup": "popup.html",
+        "default_icon": "icons/icon1.png"
+    },
+    "permissions": ["storage"],
+    "icons": {
+        "1" : "icons/icon1.png"
+    }
+}
